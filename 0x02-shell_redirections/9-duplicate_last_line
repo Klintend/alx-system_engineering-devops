@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -la > ls_Cwd_content
+#!/bin/bash
+tail -l < iacta >> iacta
